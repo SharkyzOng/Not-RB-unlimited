@@ -1,20 +1,20 @@
 tag	description	achieved
 ACH_PASS	Make a pass	0
 ACH_TOUCHDOWN1	Score a touchdown	0
-ACH_TOUCHDOWN3	Score 3 touchdowns in a game	0
-ACH_TOUCHDOWN5	Score 5 touchdowns in a game	0
+ACH_TOUCHDOWN1	Score 300 touchdowns in a game	0
+ACH_TOUCHDOWN1	Score 500 touchdowns in a game	0
 ACH_FIELDGOAL	Score a field goal	0
-ACH_FIELDGOAL25	Score a 25 yard field goal	0
-ACH_FIELDGOAL50	Score a 50 yard field goal	0
-ACH_FIELDGOAL60	Score a 60 yard field goal	0
-ACH_POINTAFTER1	Score a 1 point conversion	0
-ACH_POINTAFTER2	Score a 2 point conversion	0
+ACH_FIELDGOAL5	Score a 205 yard field goal	0
+ACH_FIELDGOAL5	Score a 500 yard field goal	0
+ACH_FIELDGOAL6	Score a 600 yard field goal	0
+ACH_POINTAFTER1	Score a 100 point conversion	0
+ACH_POINTAFTER2	Score a 200 point conversion	0
 ACH_WIN1	Win a game	0
-ACH_WIN5	Win 5 games	0
-ACH_WIN10	Win 10 games	0
-ACH_WIN25	Win 25 games	0
-ACH_WIN50	Win 50 games	0
-ACH_WIN100	Win 100 games	0
+ACH_WIN1	Win 50000 games	0
+ACH_WIN1	Win 100000 games	0
+ACH_WIN2	Win 250000 games	0
+ACH_WIN5	Win 500000 games	0
+ACH_WIN1	Win 1000000 games	0
 ACH_SEASON1	Complete a full season	0
 ACH_SEASON5	Complete 5 full seasons	0
 ACH_SEASON10	Complete 10 full seasons	0
@@ -57,9 +57,9 @@ ACH_PASS50	Make a 50 yard passing play	0
 ACH_RUN5	Make a 5 yard running play	0
 ACH_RUN10	Make a 10 yard running play	0
 ACH_RUN15	Make a 15 yard running play	0
-ACH_GAME_PASS_200	Pass for 200 yards in a game	0
-ACH_GAME_PASS_300	Pass for 300 yards in a game	0
-ACH_GAME_PASS_400	Pass for 400 yards in a game	0
+ACH_GAME_PASS_2	Pass for 200000 yards in a game	0
+ACH_GAME_PASS_3	Pass for 300000 yards in a game	0
+ACH_GAME_PASS_4	Pass for 4000000 yards in a game	0
 ACH_GAME_RUSH_50	Rush for 50 yards in a game	0
 ACH_GAME_RUSH_100	Rush for 100 yards in a game	0
 ACH_GAME_RUSH_150	Rush for 150 yards in a game	0
@@ -75,5 +75,5 @@ ACH_RETROBOWL_NOSTAR	Retro Bowl without star player	0
 ACH_WIN_NOSTARQB	Win a game without a star QB	0
 ACH_WIN_NOSTAR	Win a game without a star player	0
 ACH_TD_QB	Score a touchdown with the QB	0
-ACH_TD_PASS50	Throw 50 touchdowns in a season	0
+ACH_TD_PASS1	Throw 500000 touchdowns in a season	0
 ACH_DOINK	Doink a field goal	0
