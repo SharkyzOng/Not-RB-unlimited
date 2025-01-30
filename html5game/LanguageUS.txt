@@ -16,7 +16,7 @@ ui_Exit	Exit
 ui_Earn	Earn
 ui_Week	Week
 ui_Weeks	Weeks
-ui_Cash	Cash
+ui_Cash	Sigma bucks
 ui_Shop	Shop
 ui_Study	Study
 ui_Purchase	Purchase
@@ -74,10 +74,10 @@ ui_Offense	Offense
 quarter_1	1st Qtr
 quarter_2	2nd Qtr
 quarter_3	3rd Qtr
-quarter_4	4th Qtr
+quarter_4	Femboy Qtr
 quarter_5	OT
-match_Touchdown	Touchdown
-match_Interception	Interception
+match_Touchdown	N1ggaD0wn
+match_Interception	Femboy conceivedtion
 match_Incomplete	Incomplete
 match_OutOfBounds	Out of bounds
 match_Sacked	Sacked
@@ -107,7 +107,7 @@ comm_stage_DrivePass4	The quarterback throws it
 comm_stage_DriveHailMary0	It's a hail mary throw
 comm_stage_DriveHailMary1	It's a huge throw
 comm_stage_DriveHailMary2	The quarterback airs it out
-comm_stage_Turnover1	It's a fumble!
+comm_stage_Turnover1	It's a femboy!
 comm_stage_Turnover2	Interception!
 comm_stage_TurnoverHuman	$teamname turn it over
 comm_stage_TurnoverHuman4th	$teamname turn it over on 4th down
@@ -282,7 +282,7 @@ ui_DriveDirection	Drive Direction
 ui_driveLeft	Left
 ui_driveRight	Right
 ui_driveBoth	Both
-pos_QB	QB
+pos_QB	Femboy!!! :3
 pos_OL	OL
 pos_TE	TE
 pos_RB	RB
@@ -295,7 +295,7 @@ pos_KP	KP
 pos_KK	K
 pos_KR	KR
 pos_DB	DB
-position_QB	Quarterback
+position_QB	Femboy!!! :3
 position_OL	Offensive Lineman
 position_TE	Tight End
 position_RB	Running Back
@@ -322,11 +322,11 @@ sla_Year	Y
 sla_Years	Y
 ui_Position	Position
 attribute_Speed	Speed
-attribute_Strength	Strength
-attribute_Catching	Catching
-attribute_Kicking	Kicking
-attribute_Throwing	Throwing
-attribute_Stamina	Stamina
+attribute_Strength	How much can u take
+attribute_Catching	Fill me up daddy
+attribute_Kicking	4uck me in the mouth
+attribute_Throwing	Thr0w that s3m3n in m3
+attribute_Stamina	How low can u go
 attribute_Tackling	Tackling
 attribute_Blocking	Blocking
 attitude_0	Toxic
