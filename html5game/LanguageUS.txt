@@ -222,10 +222,10 @@ Field Goal	Field Goal
 msg_NewGame	Do you want to start a new career?##WARNING!#Your save data and any existing#Coaching Credits will be lost.
 msg_NewGameCredits	Do you want to start a new career?##You have $num of your purchased Coaching Credits remaining that will be transferred to your new save file.
 matchmsg_PlayPunt	Play 4th down or punt?
-matchmsg_PlayFG	Play $down or go for field goal?
+matchmsg_PlayFG	Play $down or go for N1ggaGoal?
 ui_NewTrait	New Trait!
 msg_NewTrait	You have earned a new trait!###$traitname##$traitdesc.
-match_StiffArm	Stiff Arm!
+match_StiffArm	Good Boy!!!
 ui_DivisionLeaders	Division Leaders
 ui_WildCard	Wild Card
 ui_InTheHunt	In the hunt
@@ -274,15 +274,15 @@ match_Recovered	Recovered
 match_Turnover	Turnover
 match_Safety	Safety
 matchmsg_PATor2	1 or 2 point conversion?
-match_1pt	1 pt
-match_2pt	2 pt
-match_Scored	Scored
+match_1pt	100 pt
+match_2pt	2000 pt
+match_Scored	William allen is gooning
 ui_ChooseTeam	Choose Team
 ui_DriveDirection	Drive Direction
 ui_driveLeft	Left
 ui_driveRight	Right
 ui_driveBoth	Both
-pos_QB	Femboy!!! :3
+pos_QB	QB
 pos_OL	OL
 pos_TE	TE
 pos_RB	RB
@@ -327,8 +327,8 @@ attribute_Catching	Fill me up daddy
 attribute_Kicking	4uck me in the mouth
 attribute_Throwing	Thr0w that s3m3n in m3
 attribute_Stamina	How low can u go
-attribute_Tackling	Tackling
-attribute_Blocking	Blocking
+attribute_Tackling	Thr0w me around
+attribute_Blocking	Block inside me pluh!
 attitude_0	Toxic
 attitude_1	Bad
 attitude_2	Poor
