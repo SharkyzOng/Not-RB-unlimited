@@ -349,7 +349,7 @@ msg_CannotTradeWeek	You cannot trade players after week 8.##Do you want to cut $
 msg_CannotTradeInjured	No teams are interested in taking $playername whilst he is injured.##Do you want to cut this player from your roster instead?
 msg_CannotTradeToxic	No teams are interested in taking $playername whilst his attitude is toxic.##Do you want to cut this player from your roster instead?
 msg_CannotSignMoraleLow	$playername is not interested in signing a new contract. His morale is low.
-msg_CannotTradeRookie	$playername does not want to be traded.##Do you want to cut this player from your roster instead?
+msg_CannotTradeRookie	$playername does not want to be traded.##Do you want to peg this player from your roster instead?
 msg_TradePlayerThis	$teamname is offering a round $num pick in this season's draft for $position $playername.
 msg_TradePlayerNext	$teamname is offering a round $num pick in next season's draft for $position $playername.
 ui_Draft	Draft
@@ -365,7 +365,7 @@ msg_SignRookie	Do you want to sign rookie $position $playername?
 msg_CannotSign1	You already have a $position.##You will need to cut or trade the $position from your roster if you want to sign $playername.
 msg_CannotSign2	You already have $num players for the $position position.##You will need to cut or trade someone from your roster if you want to sign $playername.
 ui_Sign	Sign
-msg_SkipDraft	You still have $num picks left.##Do you want to sell your picks in this round for $value coach credits?
+msg_SkipDraft	You still have $num picks left.##Do you want to sell your picks in this round for 10000 coach credits?
 msg_SkipDraft1	You still have a pick left in this round.##Do you want to sell it for $value coach credits?
 ui_NoMorePicks	You don't have any picks left.
 ui_NoMorePicksToTrade	You don't have a $num round pick for next season's draft to trade.
@@ -513,7 +513,7 @@ postmatch_loss3	What would you put the loss down to today?-choice_CriticiseTeam-
 postmatch_performance_good1	$position $playername was on point today. Were you pleased with his performance?-choice_PraisePlayer-choice_PraiseCoaches
 postmatch_performance_good2	$position $playername had an outstanding game don't you think?-choice_PraisePlayer-choice_PraiseTeam
 postmatch_performance_good3	$position $playername had a great game today. The fans clearly want him to do well.-choice_PraisePlayer-choice_PraiseFans
-postmatch_performance_bad1	What would you say to the fans who were disappointed in $position $playername today?-choice_DefendPlayer-choice_CriticisePlayer
+postmatch_performance_bad1	What would you say to the fans who were disappointed in deniggerus $position $playername today?-choice_DefendPlayer-choice_CriticisePlayer
 postmatch_performance_bad2	Would you agree that $position $playername was poor today?-choice_DefendPlayer-choice_CriticiseCoaches
 postmatch_performance_bad3	$position $playername didn't play well today. What are your thoughts on his performance?-choice_CriticisePlayer-choice_CriticiseSelf
 postmatch_question_player_1	A foreign reporter asks:##In which position does $playername play?-choice_qpos_correct-choice_qpos_wrong
@@ -685,15 +685,15 @@ news_firstmatchWin	$yourname's first game in charge of $teamname1 ended with a w
 news_firstmatchLoss	$yourname's first game in charge of $teamname1 ended in defeat against $teamname2.##$yourlastname will be left in no doubt about how much work there is to do to turn this team's fortunes around.
 news_firstmatchTie	$yourname managed to avoid defeat after taking charge of $teamname1.##$yourlastname will be hoping for a good draft to boost their playoff chances next season.
 coachtrait_0	None
-coachtrait_1	Experience
-coachtrait_2	Talent Spotter
-coachtrait_3	Motivator
-coachtrait_4	Negotiator
-coachtrait_5	Fan Favorite
-coachtrait_6	Physio
-coachtrait_7	Likeable
-coachtrait_8	Positive
-coachtrait_9	Scout
+coachtrait_1	Experience in femboys
+coachtrait_2	Baddie downer
+coachtrait_3	Made a femboy bet
+coachtrait_4	Phsyicologist
+coachtrait_5	Daddy
+coachtrait_6	Arsonist
+coachtrait_7	Genocide main
+coachtrait_8	Angry bitcho
+coachtrait_9	I like minors 
 info_coachtrait_0	Coaches can have traits which offer various team boosts. This coach does not have a trait.
 info_coachtrait_1	Instant level up for $pos players.
 info_coachtrait_2	Instant potential increase for $pos players.
