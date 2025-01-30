@@ -1,21 +1,21 @@
 tag	description	achieved
 ACH_PASS	Make a pass	0
 ACH_TOUCHDOWN1	Score a touchdown	0
-ACH_TOUCHDOWN1	Score 300 touchdowns in a game	0
-ACH_TOUCHDOWN1	Score 500 touchdowns in a game	0
+ACH_TOUCHDOWN3	Score 300 touchdowns in a game	0
+ACH_TOUCHDOWN5	Score 500 touchdowns in a game	0
 ACH_FIELDGOAL	Score a field goal	0
 ACH_FIELDGOAL5	Score a 205 yard field goal	0
-ACH_FIELDGOAL5	Score a 500 yard field goal	0
-ACH_FIELDGOAL6	Score a 600 yard field goal	0
+ACH_FIELDGOAL10	Score a 500 yard field goal	0
+ACH_FIELDGOAL25	Score a 600 yard field goal	0
 ACH_POINTAFTER1	Score a 100 point conversion	0
 ACH_POINTAFTER2	Score a 200 point conversion	0
 ACH_WIN1	Win a game	0
-ACH_WIN1	Win 50000 games	0
-ACH_WIN1	Win 100000 games	0
-ACH_WIN2	Win 250000 games	0
-ACH_WIN5	Win 500000 games	0
-ACH_WIN1	Win 1000000 games	0
-ACH_SEASON1	Complete a full season	0
+ACH_WIN5	Win 50000 games	0
+ACH_WIN10	Win 100000 games	0
+ACH_WIN25	Win 250000 games	0
+ACH_WIN50	Win 500000 games	0
+ACH_WIN100	Win 1000000 games	0
+ACH_SEASON1	Complete 100 full season	0
 ACH_SEASON5	Complete 5 full seasons	0
 ACH_SEASON10	Complete 10 full seasons	0
 ACH_DRAFT	Draft a player	0
