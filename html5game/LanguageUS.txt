@@ -276,7 +276,7 @@ match_Safety	Safety
 matchmsg_PATor2	1 or 2 point conversion?
 match_1pt	100 pt
 match_2pt	2000 pt
-match_Scored	William allen is gooning
+match_Scored	Willy is gooning
 ui_ChooseTeam	Choose Team
 ui_DriveDirection	Drive Direction
 ui_driveLeft	Left
@@ -359,14 +359,14 @@ ui_PicksLeft	Picks Left
 ui_Picks	Picks
 ui_SignPlayer	Sign Player
 msg_SignPlayer	Do you want to sign $position $playername?
-msg_SignPlayerStore	Do you want to sign $position $playername? It will cost $num coaching credits.
-msg_SignPlayerStoreNoCredit	You need $num coaching credits to sign this player.
+msg_SignPlayerStore	Do you want to sign $position $playername? It will cost 1 coaching credits.
+msg_SignPlayerStoreNoCredit	You need 1 coaching credits to sign this player.
 msg_SignRookie	Do you want to sign rookie $position $playername?
 msg_CannotSign1	You already have a $position.##You will need to cut or trade the $position from your roster if you want to sign $playername.
 msg_CannotSign2	You already have $num players for the $position position.##You will need to cut or trade someone from your roster if you want to sign $playername.
 ui_Sign	Sign
 msg_SkipDraft	You still have $num picks left.##Do you want to sell your picks in this round for 10000 coach credits?
-msg_SkipDraft1	You still have a pick left in this round.##Do you want to sell it for $value coach credits?
+msg_SkipDraft1	You still have a pick left in this round.##Do you want to sell it for 100000 coach credits?
 ui_NoMorePicks	You don't have any picks left.
 ui_NoMorePicksToTrade	You don't have a $num round pick for next season's draft to trade.
 ui_Rookie	Rookie
