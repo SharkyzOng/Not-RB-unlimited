@@ -77,12 +77,12 @@ quarter_3	3rd Qtr
 quarter_4	Femboy Qtr
 quarter_5	OT
 match_Touchdown	N1ggaD0wn
-match_Interception	Femboy conceivedtion
-match_Incomplete	Incomplete
-match_OutOfBounds	Out of bounds
-match_Sacked	Sacked
-match_Fumble	Fumble
-comm_stage_KickOff	$teamname kicks off
+match_Interception	N1ggrception
+match_Incomplete	N1gcomplete
+match_OutOfBounds	Out of n1ggas
+match_Sacked	n1gged
+match_Fumble	n1ggle
+comm_stage_KickOff	$teamname n1ggs off
 comm_stage_Possession_OwnHalf1	$teamname on their own $num
 comm_stage_Possession_OwnHalf2	$teamname in their own half
 comm_stage_Possession_OwnHalf3	$teamname has possession
@@ -107,8 +107,8 @@ comm_stage_DrivePass4	The quarterback throws it
 comm_stage_DriveHailMary0	It's a hail mary throw
 comm_stage_DriveHailMary1	It's a huge throw
 comm_stage_DriveHailMary2	The quarterback airs it out
-comm_stage_Turnover1	It's a femboy!
-comm_stage_Turnover2	Interception!
+comm_stage_Turnover1	It's a n1gga
+comm_stage_Turnover2	N1ggaception!
 comm_stage_TurnoverHuman	$teamname turn it over
 comm_stage_TurnoverHuman4th	$teamname turn it over on 4th down
 comm_stage_Touchdown	$teamname score!
@@ -273,9 +273,9 @@ msg_NewSeason	A new season begins!
 match_Recovered	Recovered
 match_Turnover	Turnover
 match_Safety	Safety
-matchmsg_PATor2	1 or 2 point conversion?
-match_1pt	100 pt
-match_2pt	2000 pt
+matchmsg_PATor2	n1gga or n1gger point conversion?
+match_1pt	n1gga pt
+match_2pt	n1gger pt
 match_Scored	Willy is gooning
 ui_ChooseTeam	Choose Team
 ui_DriveDirection	Drive Direction
